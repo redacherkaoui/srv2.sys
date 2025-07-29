@@ -1,7 +1,6 @@
 /*
 =================================================================================
-   NOTE TO READERS:
-
+   
    This is a *research skeleton* for SMB2 + SSPI/NTLM handshake flows.
    Critical implementation details are intentionally omitted to discourage
    silent patching, uncredited fixes, or unrewarded vendor responses.
